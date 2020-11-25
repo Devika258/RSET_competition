@@ -1,0 +1,54 @@
+html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url(annie-spratt-176308-unsplash.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#header{
+    border-radius: 50%;
+    text-align: center;
+    height: 100vh;
+    
+}
+.jumbotron{
+    border-radius: 6%;
+}
+
+h1{
+    border-radius: 30%%;
+    text-align: center;
+    font-family: Cinzel; 
+    
+}
+h2{
+    text-align: center;
+    font-family: Lobster;
+    background-color:rgba(255, 255, 255, 0.09);
+    
+}
+p{
+    text-align: center;
+    font-family: Nanum Myeongjo;
+}
+a{
+    font-family: Libre Baskerville;
+}
+#imagegrid{
+    margin-top: 10vh;
+}
+.symbol{
+    color:rgb(92, 195, 221);
+}
+#content{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.pinkborder{
+    border: 3px solid rgba(60, 255, 245, 0.5);
+    border-radius: 5%; 
+}
